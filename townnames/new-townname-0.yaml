@@ -4,7 +4,7 @@ mainset:
 - names:
   - name: Jit
     probability: 1
-  - name: Smoke
+  - name: 'Smoke '
     probability: 1
   - name: 'Dark and '
     probability: 1
@@ -12,11 +12,11 @@ mainset:
     probability: 1
   - name: 'Call Me '
     probability: 1
-  - name: 'No'
+  - name: 'No '
     probability: 1
   - name: Ethnic
     probability: 1
-  - name: Pussy
+  - name: 'Pussy '
     probability: 1
   - name: Lompany
     probability: 1
