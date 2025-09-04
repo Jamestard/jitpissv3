@@ -55,5 +55,5 @@ mainset:
   - name: ' '
     probability: 10
 name: 'New Townname #0'
-source: ''
+source: null
 subsets: []
