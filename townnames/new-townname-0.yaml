@@ -1,0 +1,59 @@
+available: false
+id: 0
+mainset:
+- names:
+  - name: Jit
+    probability: 1
+  - name: Smoke
+    probability: 1
+  - name: 'Dark and '
+    probability: 1
+  - name: Narkan
+    probability: 1
+  - name: 'Call Me '
+    probability: 1
+  - name: 'No'
+    probability: 1
+  - name: Ethnic
+    probability: 1
+  - name: Pussy
+    probability: 1
+  - name: Lompany
+    probability: 1
+  - name: Mighty
+    probability: 1
+- names:
+  - name: Piss
+    probability: 1
+  - name: Weed
+    probability: 1
+  - name: Blunt
+    probability: 1
+  - name: Stormy
+    probability: 1
+  - name: Normy
+    probability: 1
+  - name: Merloe
+    probability: 1
+  - name: Snei
+    probability: 1
+  - name: Tard
+    probability: 1
+  - name: Jumpa
+    probability: 1
+  - name: Ass Bitch
+    probability: 1
+  - name: Motherfucker
+    probability: 1
+- names:
+  - name: ' Death Cult'
+    probability: 1
+  - name: ' But I Ball Alot'
+    probability: 1
+  - name: ' Can I Say That'
+    probability: 1
+  - name: ' '
+    probability: 10
+name: 'New Townname #0'
+source: ''
+subsets: []
